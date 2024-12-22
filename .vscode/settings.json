@@ -1,0 +1,3 @@
+{
+	"python.defaultInterpreterPath": "docker-essentials/venv/bin"
+}
