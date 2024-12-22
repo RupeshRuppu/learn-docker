@@ -1,0 +1,17 @@
+Nginx uses.
+
+1. load balancer.
+2. compression.
+3. caching.
+4. security
+5. reverse-proxy
+
+
+** typically the config file for nginx lives in /etc/nginx folder.
+   - directives
+   - blocks
+
+** Nginx as k8s ingress controller
+   - Ingress controller: a specialized load balance for managing ingress (incoming traffic) in k8s.
+   - handles the routing to the appropriate services based on rules defined in an ingress resource.
+      
